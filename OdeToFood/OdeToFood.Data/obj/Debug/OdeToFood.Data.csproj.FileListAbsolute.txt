@@ -1,0 +1,5 @@
+C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
