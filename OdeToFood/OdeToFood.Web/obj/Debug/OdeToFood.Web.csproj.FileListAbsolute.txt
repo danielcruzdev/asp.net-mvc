@@ -78,3 +78,4 @@ C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Web\obj\Debug\Ode
 C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
 C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
 C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
+C:\Users\daniel.cruz\Documents\asp.net-mvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CoreCompileInputs.cache
